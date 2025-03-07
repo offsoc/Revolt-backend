@@ -16,7 +16,7 @@ fcm_v1 = "0.3.0"
 web-push = "0.10.0"
 isahc = { optional = true, version = "1.7", features = ["json"] }
 revolt_a2 = { version = "0.10", default-features = false, features = ["ring"] }
-tokio = "1.42.0"
+tokio = "1.43.0"
 async-trait = "0.1.81"
 ulid = "1.0.0"
 
